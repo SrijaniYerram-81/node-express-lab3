@@ -59,15 +59,7 @@ The API includes input validation, appropriate HTTP status codes, parameterized 
 ## 📂 Project Structure
 
 ```text
-lab3/
-│
-├── screenshots/
-│   ├── get-books.png
-│   ├── post-book.png
-│   ├── put-book.png
-│   ├── delete-book.png
-│   ├── query-parameters.png
-│   └── validation.png
+lab3
 │
 ├── server.js
 ├── database.js
