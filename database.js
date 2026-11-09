@@ -82,6 +82,7 @@ db.run(`
                 ["Python for Data Analysis", "Wes McKinney", 720],
                 ["Web Design Fundamentals", "Jennifer Robbins", 450],
                 ["Introduction to Algorithms", "Thomas Cormen", 1500]
+                ["intro to ai", "jhon galwin", 2000]
             ];
 
             const stmt = db.prepare(`
