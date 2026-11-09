@@ -306,7 +306,7 @@ The following screenshots demonstrate the API operations and their responses in 
 
 ### 5. Search, Sorting and Filtering
 
-![Query Parameters](https://github.com/SrijaniYerram-81/node-express-lab3/blob/d26fe53866696ff987c17e7d39312b2efd55ef2a/Screenshot%202026-11-08%20174911.png,https://github.com/SrijaniYerram-81/node-express-lab3/blob/d26fe53866696ff987c17e7d39312b2efd55ef2a/Screenshot%202026-11-08%20175121.png)
+![Query Parameters](https://github.com/SrijaniYerram-81/node-express-lab3/blob/d26fe53866696ff987c17e7d39312b2efd55ef2a/Screenshot%202026-11-08%20174911.png)
 
 ### 6. Input Validation and Error Handling
 
